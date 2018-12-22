@@ -1,0 +1,4 @@
+on skript load:
+	wait 20 seconds
+	send "Thanks for using Build Your Own Bot!" to console
+	send "The files needed have been created in your server plugins folder." to console
